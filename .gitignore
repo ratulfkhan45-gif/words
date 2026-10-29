@@ -12,3 +12,17 @@ target/
 vendor/
 .DS_Store
 
+
+.env
+.env.*
+!.env.example
+*.exe
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+target/
+vendor/
+.DS_Store
+
